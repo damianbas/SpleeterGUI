@@ -3,7 +3,7 @@ Visuals user interface for Spleeter
 
 #how to install
 
-1.go to the release page and download the latest .zip file 
+1.go to the release page and download the latest app.publish.zip file 
 
 2.unzip it
 
