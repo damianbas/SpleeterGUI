@@ -8,3 +8,5 @@ Visuals user interface for Spleeter
 2.unzip it
 
 3.run the exe file as administrator
+
+4.enjoy
